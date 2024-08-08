@@ -1,16 +1,51 @@
-## Hi there 👋
 
-<!--
-**phungdat28/phungdat28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Phung+Tien+Dat!;" />
+</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">I'm a Backend Devloper</h3>
+
+<br/>
+
+<div align="center">
+
+ 🌍 I'm based in Vietnam 
+ 
+ 🔭 I'm studying Information Technology at Phenikaa University
+ 
+ </div>
+
+<div align="center"> 
+  <a href="https://www.facebook.com/datphungs">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=Facebook">
+  </a>
+  <a href="https://www.instagram.com/_ptd.289/">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Instagram-%23FF99FF?style=for-the-badge&logo=Instagram">
+  </a>
+  <a href="https://www.linkedin.com/in/phung-tien-dat-a48193297/">
+     <img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn">
+  </a>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=phungdat28&show_icons=true&theme=tokyonight)
+
+
+<h2 align="center"> Languages-Frameworks-Tools </h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=java,html,css,spring,bootstrap,mysql,git,github" /><br>
+</div>
+  <br/><br/><br/>
+<hr/>
+<br>
+<div align="center">
+  <h2> My Contributions </h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  <br/><br/><br/>
+</div>
+
+![Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=phungdat28&theme=algolia)
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
+</h3>
