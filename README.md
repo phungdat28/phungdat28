@@ -28,7 +28,7 @@
   </a>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=phungdat28&show_icons=true&theme=tokyonight)
-
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=phungdat28&theme=radical)
 
 <h2 align="center"> Languages-Frameworks-Tools </h2>
 <br/>
@@ -46,6 +46,7 @@
 </div>
 
 ![Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=phungdat28&theme=algolia)
+
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
 </h3>
